@@ -1,4 +1,5 @@
 <h1 align="center">
+Modified by [wildfirebill](https://github.com/wildfirebill)
   <a href="https://github.com/posquit0/Awesome-CV" title="AwesomeCV Documentation">
     <img alt="AwesomeCV" src="https://github.com/posquit0/Awesome-CV/raw/master/icon.png" width="200px" height="200px" />
   </a>
